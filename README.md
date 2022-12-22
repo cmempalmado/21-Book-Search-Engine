@@ -52,6 +52,7 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 
 
 ## Mock-Up
+![screenshot](https://user-images.githubusercontent.com/107980867/209116967-e352dfcc-ab07-4be7-b471-515e3ec6e24f.png)
 
 
 
